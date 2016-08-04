@@ -25,6 +25,7 @@ window.TimeAgo                = require("./js/timeago.jsx");
 window.TimeoutTransitionGroup = require("./js/timeout-transition-group.jsx");
 window.Tooltip                = require("./js/tooltip.jsx");
 window.WindowDrag             = require("./js/window-drag.jsx");
+window.CopyButton             = require("./js/copy-button.jsx");
 
 // Create a <ReactPlayground> for each example.
 var examples = document.querySelectorAll('div.example_div');
